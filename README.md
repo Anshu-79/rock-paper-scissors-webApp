@@ -1,1 +1,1 @@
-"# rock-paper-scissors-webApp" 
+A Single-player Rock Paper Scissors Game WebApp made with HTML, CSS & JS.
